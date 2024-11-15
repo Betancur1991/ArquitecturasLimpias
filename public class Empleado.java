@@ -1,3 +1,5 @@
+//clase que no tiene bien implementado el principio de responsabilidad unica
+
 public class Empleado {
     private String nombre;
     private String puesto;
@@ -23,3 +25,5 @@ public class Empleado {
         System.out.println(informe);
     }
 }
+
+
